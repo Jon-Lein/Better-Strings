@@ -1,0 +1,9 @@
+.txt
+.exe
+.dll
+.py
+.jpg
+.pdf
+.doc
+.docx
+.out
